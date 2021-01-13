@@ -1,7 +1,7 @@
 # 关于本站
 ---
 ## 目录
-> + 1、[把时间当做朋友](./time-friends.md)
+> + 1、[读书之把时间当做朋友](./time-friends.md)
 ---
 ![image-20210112233332](https://reader.jcrs.cn/assets/20210112233332.png)
 
